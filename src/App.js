@@ -126,7 +126,7 @@ const App = () => {
           />
         </div>
 
-        <div style={{ display: 'flex', justifyContent: 'end', marginTop: '1rem' }}>
+        <div style={{ display: 'flex', justifyContent: 'end', marginTop: '1rem' } }>
           <p style={{ fontSize: '2rem' }}>
             총지출 :
             <span>
